@@ -34,5 +34,5 @@ This is a responsive personal portfolio website created using **HTML**, **CSS**,
 ## 📬 Contact
 
 For collaboration or queries, reach out at:  
-📧 your-dhruvsaxena132@gmail.com  
-📱 LinkedIn: [your-linkedin](https://linkedin.com/in/drvsaxenaofficial)
+📧 Mail: dhruvsaxena132@gmail.com  
+📱 LinkedIn: https://linkedin.com/in/drvsaxenaofficial
