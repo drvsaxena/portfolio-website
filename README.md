@@ -23,13 +23,13 @@ This is a responsive personal portfolio website created using **HTML**, **CSS**,
 *(Replace with your actual GitHub Pages link)*
 
 ## 📂 Folder Structure
-'''
+```
 /project-root
 │
 ├── index.html
 ├── style.css
 └── script.js
-'''
+```
 
 ## 📬 Contact
 
