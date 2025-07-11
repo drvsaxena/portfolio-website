@@ -24,7 +24,7 @@ This is a responsive personal portfolio website created using **HTML**, **CSS**,
 
 ## 📂 Folder Structure
 ```
-/project-root
+/portfolio
 │
 ├── index.html
 ├── style.css
