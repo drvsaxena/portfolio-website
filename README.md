@@ -19,8 +19,8 @@ This is a responsive personal portfolio website created using **HTML**, **CSS**,
 
 ## 🔗 Live Demo
 
-[Click here to view live](https://yourusername.github.io/your-repo-name/)  
-*(Replace with your actual GitHub Pages link)*
+[Click here to view live](https://drvsaxena.github.io/portfolio-website/)  
+
 
 ## 📂 Folder Structure
 ```
